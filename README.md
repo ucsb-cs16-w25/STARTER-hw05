@@ -1,3 +1,3 @@
-# STARTER-lab06
+# STARTER-lab05
 
-Starter code for: <https://github.com/ucsb-cs16/f22/blob/main/_lab/lab06.md>
+Starter code for: <https://ucsb-cs16.github.io/w23/labs/lab05/>
