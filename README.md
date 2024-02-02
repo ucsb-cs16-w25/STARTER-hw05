@@ -1,3 +1,3 @@
-# STARTER-lab04
+# STARTER-gsa04
 
-Starter code for: <https://ucsb-cs16.github.io/f23/labs/lab04/>
+Starter code for: <https://ucsb-cs16.github.io/w24/gsa04/>
